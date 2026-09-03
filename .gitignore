@@ -1,0 +1,14 @@
+# generated notes belong to whoever runs the skill, not to this repo
+math-notes/
+*.backup.*
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
